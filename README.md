@@ -4,4 +4,4 @@
 - Transform : MP4 to GIF
 - Password Kepper : Password manager
 - Text Editor 
-- Amazon Tacker 
+- Amazon Tracker 
