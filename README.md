@@ -3,5 +3,6 @@
 #### Next Project (Python) :
 - Transform : MP4 to GIF ✓
 - Password Kepper : Password manager ✓
+  - Maybe add some features like delete password, graphical management...
 - Text Editor 
 - Amazon Tracker 
